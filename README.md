@@ -1,10 +1,32 @@
 # IA-Stock-Predictor
 
-## 🛠 Instalación
+# 🛠 Instalación
 
-## 🤔 ¿Como funciona?
+# 🤔 ¿Como funciona?
 
-## 〽 Stocks
+# 〽 Stocks
+
+## ❓ ¿Que son los stocks?
+
+Los "stocks" (también conocidos como acciones) representan la propiedad parcial de una empresa. Cuando una empresa emite acciones al mercado público, está dividiendo su propiedad en pequeñas partes. Los inversionistas que compran estas acciones se convierten en accionistas y tienen derechos sobre una fracción de la empresa en relación con la cantidad de acciones que poseen. Las acciones se negocian en los mercados financieros, como bolsas de valores, y su valor puede fluctuar según varios factores, como el desempeño financiero de la empresa, noticias, eventos económicos, decisiones de la administración, y la oferta y demanda en el mercado. Los inversionistas pueden comprar y vender acciones con la esperanza de obtener ganancias a medida que el valor de las acciones aumente o mediante dividendos que la empresa pueda distribuir a sus accionistas.
+
+## 📏 ¿Como se miden los stocks?
+
+Los stocks o acciones se miden principalmente por su valor de mercado y su rendimiento. Aquí hay algunas métricas clave que se utilizan comúnmente para medir el desempeño de las acciones:
+
+- **Precio de las acciones:** Es el precio al que una acción se negocia en el mercado en un momento dado. Es la medida más directa del valor percibido de una acción en un momento específico.
+
+- **Capitalización de mercado:** Se calcula multiplicando el precio actual de una acción por el número total de acciones en circulación de una empresa. Representa el valor total de mercado de una empresa y es útil para comparar el tamaño relativo de diferentes empresas.
+
+- **Rendimiento por dividendo:** Es el porcentaje del dividendo anual pagado por cada acción en relación con el precio actual de la acción. Esta métrica indica el rendimiento en efectivo que un inversionista recibe por cada dólar invertido en acciones.
+
+- **Relación precio-ganancias (P/E):** Es la relación entre el precio actual de una acción y las ganancias por acción (utilidad neta dividida por el número de acciones). Indica cuánto están dispuestos a pagar los inversionistas por cada dólar de ganancias generadas por la empresa y se usa para evaluar si una acción está sobrevalorada o subvalorada en comparación con su rendimiento financiero.
+
+- **Volumen de operaciones:** Es la cantidad de acciones que se negocian durante un período de tiempo determinado. El volumen de operaciones puede indicar el interés del mercado en una acción y su liquidez.
+
+- **Rendimiento total:** Es la medida del rendimiento general de una inversión en acciones, que incluye tanto el cambio en el precio de la acción como los dividendos pagados durante un período específico.
+
+## 🔮 Stocks a predecir
 
 ### 🍎 Apple (AAPL)
 

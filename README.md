@@ -6,11 +6,11 @@
 
 # 〽 Stocks
 
-## ❓ ¿Que son los stocks?
+## ❓ ¿Que son?
 
 Los "stocks" (también conocidos como acciones) representan la propiedad parcial de una empresa. Cuando una empresa emite acciones al mercado público, está dividiendo su propiedad en pequeñas partes. Los inversionistas que compran estas acciones se convierten en accionistas y tienen derechos sobre una fracción de la empresa en relación con la cantidad de acciones que poseen. Las acciones se negocian en los mercados financieros, como bolsas de valores, y su valor puede fluctuar según varios factores, como el desempeño financiero de la empresa, noticias, eventos económicos, decisiones de la administración, y la oferta y demanda en el mercado. Los inversionistas pueden comprar y vender acciones con la esperanza de obtener ganancias a medida que el valor de las acciones aumente o mediante dividendos que la empresa pueda distribuir a sus accionistas.
 
-## 📏 ¿Como se miden los stocks?
+## 📏 ¿Como se miden?
 
 Los stocks o acciones se miden principalmente por su valor de mercado y su rendimiento. Aquí hay algunas métricas clave que se utilizan comúnmente para medir el desempeño de las acciones:
 
@@ -27,6 +27,8 @@ Los stocks o acciones se miden principalmente por su valor de mercado y su rendi
 - **Rendimiento total:** Es la medida del rendimiento general de una inversión en acciones, que incluye tanto el cambio en el precio de la acción como los dividendos pagados durante un período específico.
 
 ## 🔮 Stocks a predecir
+
+A continuación se indican las diferentes empresas que se modelizaran
 
 ### 🍎 Apple (AAPL)
 

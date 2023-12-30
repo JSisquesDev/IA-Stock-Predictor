@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/JSisquesDev/IA-Stock-Predictor/blob/main/assets/img/banner.png)
 
 # IA-Stock-Predictor
 

@@ -1,3 +1,5 @@
+![]()
+
 # IA-Stock-Predictor
 
 # 🛠 Instalación

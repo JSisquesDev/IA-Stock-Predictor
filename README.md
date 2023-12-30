@@ -28,7 +28,7 @@ Los stocks o acciones se miden principalmente por su valor de mercado y su rendi
 
 ## 🔮 Stocks a predecir
 
-A continuación se indican las diferentes empresas que se modelizaran
+A continuación se indican las diferentes empresas que se modelizaran:
 
 ### 🍎 Apple (AAPL)
 

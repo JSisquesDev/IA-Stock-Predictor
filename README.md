@@ -16,13 +16,13 @@ Las acciones de Apple (AAPL) son activos financieros que representan la propieda
 
 ---
 
-### 📺 Sony (SNE)
+### 📺 Sony (SONY)
 
 Las acciones de Sony Corporation (SNE) representan la propiedad parcial de esta reconocida empresa japonesa en los mercados financieros. Sony, conocida por su diversidad en la producción de productos electrónicos, entretenimiento, y servicios, cotiza en diversas bolsas de valores globales. El valor de las acciones de Sony está sujeto a variaciones según el rendimiento financiero de la empresa, el éxito de sus productos, como PlayStation, cámaras, televisores y otros dispositivos electrónicos, así como también las tendencias de la industria del entretenimiento, incluyendo música, cine y contenido digital. Las noticias sobre avances tecnológicos, lanzamientos de productos clave, así como los informes financieros trimestrales, suelen influir en la percepción del mercado sobre Sony, afectando así el valor y la demanda de sus acciones.
 
 #### Enlaces
 
-- [Stock de Sony](https://finance.yahoo.com/quote/SNE?p=SNE&.tsrc=fin-srch)
+- [Stock de Sony](https://finance.yahoo.com/quote/SONY?p=SONY&.tsrc=fin-srch)
 
 ---
 
@@ -86,23 +86,23 @@ Las acciones de GoPro, Inc. se negocian bajo el símbolo GPRO. La empresa se esp
 
 ---
 
-### 📷 Panasonic (6752.T)
+### 📷 Panasonic (PCRFY)
 
 Las acciones de Panasonic Corporation cotizan en la Bolsa de Valores de Tokio con el símbolo 6752.T. La empresa japonesa ofrece una amplia gama de productos electrónicos, sistemas domésticos, soluciones empresariales y productos relacionados con la energía. El valor de las acciones de Panasonic se ve influido por su posición en varios sectores industriales, la innovación de productos y la competencia en los mercados globales.
 
 #### Enlaces
 
-- [Stock de Panasonic](https://finance.yahoo.com/quote/6752.T?p=6752.T&.tsrc=fin-srch)
+- [Stock de Panasonic](https://finance.yahoo.com/quote/PCRFY?p=PCRFY&.tsrc=fin-srch)
 
 ---
 
-### 📺 LG (066570.KS)
+### 📺 LG (LPL)
 
 Las acciones de LG Corporation se negocian en la Bolsa de Valores de Corea del Sur bajo el símbolo 066570.KS. LG es conocida por sus productos electrónicos, que incluyen televisores, electrodomésticos, teléfonos inteligentes y soluciones de energía. El valor de las acciones de LG está sujeto a los resultados financieros de la empresa, su presencia en múltiples sectores y la competencia en la industria electrónica global.
 
 #### Enlaces
 
-- [Stock de LG](https://finance.yahoo.com/quote/066570.KS?p=066570.KS&.tsrc=fin-srch)
+- [Stock de Apple](https://finance.yahoo.com/quote/LPL?p=LPL&.tsrc=fin-srch)
 
 ---
 

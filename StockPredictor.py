@@ -135,7 +135,7 @@ if __name__ == '__main__':
         model_path = os.path.join(MODELS_PATH, model_folder_name, model_name)
 
         # Establecemos los checkpoints
-        early_stopping = EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+        early_stopping = EarlyStopping(monitor='val_loss', patience=5, restore_best_weights=True)
         checkpoint = ModelCheckpoint(model_path, monitor='val_accuracy', verbose=1, save_best_only=True, mode='max')
 
         # Entrenamos el modelo usando la GPU

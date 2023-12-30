@@ -12,6 +12,8 @@ Las acciones de Apple (AAPL) son activos financieros que representan la propieda
 
 #### Enlaces
 
+- [Stock de Apple](https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch)
+
 ---
 
 ### 📺 Sony (SONY)
@@ -19,6 +21,8 @@ Las acciones de Apple (AAPL) son activos financieros que representan la propieda
 Las acciones de Sony Corporation (SNE) representan la propiedad parcial de esta reconocida empresa japonesa en los mercados financieros. Sony, conocida por su diversidad en la producción de productos electrónicos, entretenimiento, y servicios, cotiza en diversas bolsas de valores globales. El valor de las acciones de Sony está sujeto a variaciones según el rendimiento financiero de la empresa, el éxito de sus productos, como PlayStation, cámaras, televisores y otros dispositivos electrónicos, así como también las tendencias de la industria del entretenimiento, incluyendo música, cine y contenido digital. Las noticias sobre avances tecnológicos, lanzamientos de productos clave, así como los informes financieros trimestrales, suelen influir en la percepción del mercado sobre Sony, afectando así el valor y la demanda de sus acciones.
 
 #### Enlaces
+
+- [Stock de Sony](https://finance.yahoo.com/quote/SONY?p=SONY&.tsrc=fin-srch)
 
 ---
 
@@ -28,6 +32,8 @@ Las acciones de Xiaomi Corporation representan la participación en una de las p
 
 #### Enlaces
 
+- [Stock de Xiaomi](https://finance.yahoo.com/quote/XIACY?p=XIACY&.tsrc=fin-srch)
+
 ---
 
 ### 🔎 Google (GOOG)
@@ -35,6 +41,8 @@ Las acciones de Xiaomi Corporation representan la participación en una de las p
 Las acciones de Alphabet Inc., la empresa matriz de Google, se cotizan en los mercados financieros bajo los símbolos GOOGL y GOOG. Google es conocido por sus servicios de búsqueda en Internet, publicidad en línea, software, hardware y otras iniciativas innovadoras. El valor de las acciones de Google se ve afectado por el rendimiento financiero de la empresa, sus inversiones en investigación y desarrollo, así como por los cambios en la industria tecnológica y la competencia en el mercado digital.
 
 #### Enlaces
+
+- [Stock de Google](https://finance.yahoo.com/quote/GOOG?p=GOOG&.tsrc=fin-srch)
 
 ---
 
@@ -44,6 +52,8 @@ Las acciones de Microsoft Corporation se negocian en los mercados bajo el símbo
 
 #### Enlaces
 
+- [Stock de Microsoft](https://finance.yahoo.com/quote/MSFT?p=MSFT&.tsrc=fin-srch)
+
 ---
 
 ### 🚗 Tesla (TSLA)
@@ -51,6 +61,8 @@ Las acciones de Microsoft Corporation se negocian en los mercados bajo el símbo
 Las acciones de Tesla, Inc. se cotizan bajo el símbolo TSLA. La empresa es líder en tecnología de vehículos eléctricos y energía sostenible, con una amplia gama de automóviles eléctricos, soluciones de almacenamiento de energía y paneles solares. El valor de las acciones de Tesla es altamente influenciado por las expectativas de crecimiento futuro, la producción y entrega de vehículos, avances tecnológicos en el sector automotriz y la percepción del mercado sobre la sostenibilidad y el futuro de la movilidad eléctrica.
 
 #### Enlaces
+
+- [Stock de Tesla](https://finance.yahoo.com/quote/TSLA?p=TSLA&.tsrc=fin-srch)
 
 ---
 
@@ -60,6 +72,8 @@ Las acciones de Samsung Electronics Co., Ltd. se negocian en la Bolsa de Valores
 
 #### Enlaces
 
+- [Stock de Samsung](https://finance.yahoo.com/quote/SSNLF?p=SSNLF&.tsrc=fin-srch)
+
 ---
 
 ### 🎥 GoPro (GPRO)
@@ -67,6 +81,8 @@ Las acciones de Samsung Electronics Co., Ltd. se negocian en la Bolsa de Valores
 Las acciones de GoPro, Inc. se negocian bajo el símbolo GPRO. La empresa se especializa en cámaras de acción y accesorios relacionados, dirigidos principalmente a entusiastas de los deportes extremos y actividades al aire libre. El valor de las acciones de GoPro puede verse afectado por la demanda de sus productos, su capacidad para innovar en un mercado competitivo y su desempeño financiero.
 
 #### Enlaces
+
+- [Stock de GoPro](https://finance.yahoo.com/quote/GPRO?p=GPRO&.tsrc=fin-srch)
 
 ---
 
@@ -76,6 +92,8 @@ Las acciones de Panasonic Corporation cotizan en la Bolsa de Valores de Tokio co
 
 #### Enlaces
 
+- [Stock de Panasonic](https://finance.yahoo.com/quote/PCRFY?p=PCRFY&.tsrc=fin-srch)
+
 ---
 
 ### 📺 LG (LPL)
@@ -84,10 +102,10 @@ Las acciones de LG Corporation se negocian en la Bolsa de Valores de Corea del S
 
 #### Enlaces
 
+- [Stock de LG](https://finance.yahoo.com/quote/LPL?p=LPL&.tsrc=fin-srch)
+
 ---
 
 ## Autor
 
-Xiaomi (1810.HK):
-
-Google (GOOGL):
+## Herramientas

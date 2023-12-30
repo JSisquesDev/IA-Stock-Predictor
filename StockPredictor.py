@@ -140,7 +140,7 @@ if __name__ == '__main__':
 
         # Entrenamos el modelo usando la GPU
         with tf.device('/gpu:0'):
-            history = model.fit(x_training_dataset, y_training_dataset, epochs=100, batch_size=32, callbacks=[early_stopping, checkpoint], validation_data=(x_validation_dataset, y_validation_dataset), verbose=1)
+            history = model.fit(x_training_dataset, y_training_dataset, epochs=100, batch_size=2048, callbacks=[early_stopping, checkpoint], validation_data=(x_validation_dataset, y_validation_dataset), verbose=1)
 
         '''
         # Realizamos el test sobre el modelo

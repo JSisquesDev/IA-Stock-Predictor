@@ -2,7 +2,7 @@
 
 ## 🛠 Instalación
 
-## 🛠 ¿Como funciona?
+## 🤔 ¿Como funciona?
 
 ## 〽 Stocks
 
